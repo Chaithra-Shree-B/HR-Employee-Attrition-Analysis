@@ -40,6 +40,7 @@ This project analyzes HR data to uncover patterns in workforce distribution, sal
 A solid dataset size enables reliable trend analysis across departments.
 
 2️⃣ Employees by Department
+
 R&D → 961
 Sales → 446
 HR → 63
@@ -48,6 +49,7 @@ HR → 63
 R&D dominates the workforce (~65%), while HR has minimal representation, indicating potential operational strain.
 
 3️⃣ Average Age by Department
+
 HR → 37.81
 R&D → 37.04
 Sales → 36.54
@@ -63,6 +65,7 @@ Manager (~17K avg income)
 Clear salary hierarchy with leadership roles earning significantly higher.
 
 5️⃣ Gender Distribution
+
 R&D → Male-dominant
 Sales → Moderately balanced
 HR → More balanced
@@ -71,6 +74,7 @@ HR → More balanced
 Opportunity to improve gender diversity in technical roles.
 
 6️⃣ Income by Education Level
+
 Level 5 → Highest (~8277)
 Level 1 → Lowest (~5640)
 
